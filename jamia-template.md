@@ -1,12 +1,9 @@
 ---
 title: JAMIA Template
-author:
-- Author 1
-    | University of Oklahoma
-- Author 2
-    | Oregon Health & Science University
-institute:
-date: 2016 May 23
+author: |
+    | Last, First, MD^1^; Last, First, PhD^2^
+    | ^1^Institution One; ^2^Institution Two
+date: \date{}
 ---
 
 # Section 1
