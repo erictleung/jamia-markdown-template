@@ -5,6 +5,7 @@ author: |
     | ^1^Institution One; ^2^Institution Two
 date: \date{}
 geometry: "top=0.45in, bottom=1in, left=1in, right=1in"
+fontsize: 10pt
 fontfamily: newtxtext
 ---
 
