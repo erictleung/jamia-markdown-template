@@ -9,6 +9,8 @@ fontsize: 10pt
 fontfamily: newtxtext
 ---
 
+\pagenumbering{gobble}
+
 ## Abstract
 
 \emph{
