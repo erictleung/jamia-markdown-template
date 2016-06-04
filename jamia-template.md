@@ -7,6 +7,8 @@ date: \date{}
 geometry: "top=0.45in, bottom=1in, left=1in, right=1in"
 fontsize: 10pt
 fontfamily: newtxtext
+bibliography: refs.bib
+csl: jamia.csl
 ---
 
 \pagenumbering{gobble}
@@ -40,5 +42,9 @@ Cras accumsan ullamcorper tortor, id malesuada lacus luctus in. Nunc posuere
 quam.
 
 ## Conclusion
+
+The fundamental theorem of biomedical informatics says "that a person working
+in partnership with an information resource is "better" than that same person
+unassisted" [@Friedman:2009aa].
 
 ## References

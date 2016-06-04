@@ -9,4 +9,4 @@ clean :
 
 # Convert Markdown to PDF
 %.pdf : %.md
-	pandoc -s -o $@ $<
+	pandoc -s -o $@ $< --filter pandoc-citeproc
