@@ -1,7 +1,10 @@
 # JAMIA Markdown Article Template
 
-A Journal of American Medical Informatics Association (JAMIA) Markdown journal
-article template.
+A Journal of the American Medical Informatics Association (JAMIA) journal
+article Markdown template.
+
+This Markdown template is intended to create a PDF article using Markdown.
+
 
 ## Requirements
 
