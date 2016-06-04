@@ -1,5 +1,5 @@
 ---
-title: \large{\textbf{Title of American Medical Informatics Association Submission}}
+title: \Large{\textbf{Title of American Medical Informatics Association Submission}}
 author: |
     | \textbf{Last, First, MD}^1^; \textbf{Last, First, PhD}^2^
     | ^1^\textbf{Institution One}; ^2^\textbf{Institution Two}
