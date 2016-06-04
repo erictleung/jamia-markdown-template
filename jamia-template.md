@@ -5,6 +5,7 @@ author: |
     | ^1^Institution One; ^2^Institution Two
 date: \date{}
 geometry: margin=1in
+fontfamily: newtxtext
 ---
 
 ### Abstract
