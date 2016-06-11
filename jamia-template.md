@@ -5,9 +5,10 @@ fontsize: 10pt
 fontfamily: newtxtext
 bibliography: refs.bib
 csl: vancouver.csl
+header-includes:
+    - \pagenumbering{gobble}
 ---
 
-\pagenumbering{gobble}
 \begin{center}
 \textbf{\Large{Title of American Medical Informatics Association Submission}}
 
