@@ -1,8 +1,4 @@
 ---
-title: \Large{\textbf{Title of American Medical Informatics Association Submission}}
-author: |
-    | \textbf{Last, First, MD}^1^; \textbf{Last, First, PhD}^2^
-    | ^1^\textbf{Institution One}; ^2^\textbf{Institution Two}
 date: \date{}
 geometry: "top=0.45in, bottom=1in, left=1in, right=1in"
 fontsize: 10pt
@@ -12,6 +8,13 @@ csl: vancouver.csl
 ---
 
 \pagenumbering{gobble}
+\begin{center}
+\textbf{\Large{Title of American Medical Informatics Association Submission}}
+
+\textbf{\large{First Last, MD, MPH$^1$, First Last, MPH, CPHQ$^2$}}
+
+\textbf{\large{$^1$University of Informatics, $^2$University of Technology}}
+\end{center}
 
 ## Abstract
 
