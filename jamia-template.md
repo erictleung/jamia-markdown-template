@@ -58,6 +58,35 @@ ex tristique maximus id sed leo.  Aliquam mattis tempus ex sit amet eleifend.
 Cras accumsan ullamcorper tortor, id malesuada lacus luctus in. Nunc posuere
 quam.
 
+## Results
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porttitor
+dolor. Pellentesque iaculis nisi libero, vel tincidunt est auctor vitae. Donec
+fermentum tincidunt eleifend. Donec arcu lectus, finibus quis egestas ut,
+volutpat vel augue. Donec dictum ante eu tortor bibendum consectetur eu id
+elit. Pellentesque sit amet quam justo.
+
+![Normal Distribution\label{fig:normal}](./figures/normal-distribution.png)
+
+In Figure \ref{fig:normal}, we have the distribution made by 1000 random
+numbers sampled from a normal distribution..
+
+| Variable | Value |
+| -------- | ----- |
+| A        | 1     |
+| B        | 2     |
+| C        | 3     |
+
+Table: ABC and 1, 2, and 3\label{tab:abc}
+
+In Table \ref{tab:abc}, we have the ABC's and 1, 2, and 3.
+
+Quisque ut nisl quis justo tempor pulvinar id non erat. Curabitur sit amet
+tortor convallis, blandit nibh vel, vulputate mi. Etiam malesuada nunc sit amet
+ex tristique maximus id sed leo.  Aliquam mattis tempus ex sit amet eleifend.
+Cras accumsan ullamcorper tortor, id malesuada lacus luctus in. Nunc posuere
+quam.
+
 ## Conclusion
 
 The fundamental theorem of biomedical informatics says "that a person working
