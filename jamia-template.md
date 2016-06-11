@@ -5,6 +5,7 @@ fontsize: 10pt
 fontfamily: newtxtext
 bibliography: refs.bib
 csl: vancouver.csl
+urlcolor: blue
 header-includes:
     - \pagenumbering{gobble}
 ---
