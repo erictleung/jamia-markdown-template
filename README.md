@@ -48,7 +48,7 @@ This project attempts to make it easy to:
 - worry more on content of your paper rather than formatting
 - add Markdown tables with captions and reference tables in text
 - add figures with captions and reference figures in text
-- ability to inject LaTeX if additional formatting is necessary
+- inject LaTeX if additional formatting is necessary
 
 
 ## License
