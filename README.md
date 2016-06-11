@@ -9,8 +9,8 @@ This Markdown template is intended to create a PDF article using Markdown.
 ## Requirements
 
 - make
-- [pandoc][pandoc]
-- [pandoc-citeproc][citeproc]
+- [pandoc][pandoc] (tested with 1.17)
+- [pandoc-citeproc][citeproc] (tested with 0.9.1.1)
 - [LaTeX][latex]
 
 [pandoc]: pandoc.org
