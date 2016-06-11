@@ -20,7 +20,6 @@ header-includes:
 
 ## Abstract
 
-\emph{
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec eget porttitor
 dolor. Pellentesque iaculis nisi libero, vel tincidunt est auctor vitae. Donec
 fermentum tincidunt eleifend. Donec arcu lectus, finibus quis egestas ut,
@@ -30,7 +29,6 @@ pulvinar id non erat. Curabitur sit amet tortor convallis, blandit nibh vel,
 vulputate mi. Etiam malesuada nunc sit amet ex tristique maximus id sed leo.
 Aliquam mattis tempus ex sit amet eleifend. Cras accumsan ullamcorper tortor,
 id malesuada lacus luctus in. Nunc posuere quam.
-}
 
 ## Introduction
 
