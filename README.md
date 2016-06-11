@@ -1,9 +1,13 @@
 # JAMIA Markdown Article Template
 
-A Journal of the American Medical Informatics Association (JAMIA) journal
-article Markdown template.
+Inspired by [a LaTeX template][amia] for the same reasons, this repository
+contains a Markdown template for article submission for Journal of the American
+Medical Informatics Association (JAMIA).
 
-This Markdown template is intended to create a PDF article using Markdown.
+This template is intended to create a PDF article using a Markdown file and
+compiled using `pandoc`.
+
+[amia]: https://github.com/emir-munoz/amia-paper-template
 
 
 ## Requirements
