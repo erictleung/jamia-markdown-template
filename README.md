@@ -31,12 +31,13 @@ make
 ```
 
 
-## JAMIA Reference Style
+## Reference Style
 
-The JAMIA reference style language (CSL) file (`jamia.csl`) was downloaded from
-the [Zotero Style Repository][zotero].
+Vancouver style is the reference style used in this template. The reference
+style language (CSL) file (`vancouver.csl`) was downloaded from the [Zotero Style
+Repository][zotero].
 
-[zotero]: https://www.zotero.org/styles?q=jamia
+[zotero]: https://www.zotero.org/styles?q=vancouver
 
 
 ## Features
